@@ -4715,7 +4715,7 @@ Imaging with any questions regarding Web fonts:  http://webfonts.fonts.com
 
     
         
-            <title>HOME | Mysite</title>
+            <title>GC Studios | Jasa Desain Standing Pouch</title>
         
             <link rel="canonical" href="https://gagaycahya02.wixsite.com/mysite">
         
