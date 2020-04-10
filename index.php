@@ -1,6 +1,19 @@
 <!DOCTYPE html>
 <!-- saved from url=(0032)https://desainstandingpouch.herokuapp.com/ -->
-<html class="desktop " prefix="og: http://ogp.me/ns#" lang="en-us" dir="ltr" itemscope="" itemtype="http://schema.org/WebSite" data-page-type="pageBlank"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html class="desktop " prefix="og: http://ogp.me/ns#" lang="en-us" dir="ltr" itemscope="" itemtype="http://schema.org/WebSite" data-page-type="pageBlank"><head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162947463-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-162947463-2');
+</script>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
             <title>GC Studios | Jasa Desain Standing Pouch</title>
 <link rel="alternate" href="https://desainstandingpouch.herokuapp.com/" hreflang="x-default">
 <link rel="alternate" href="https://desainstandingpouch.herokuapp.com/" hreflang="en-us">
@@ -211,16 +224,6 @@ A consultation with your dentist will help you find the right dental practice an
             window.location.replace(url);
         }
     }
-</script>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162947463-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-162947463-2');
 </script>
 
     </head>
